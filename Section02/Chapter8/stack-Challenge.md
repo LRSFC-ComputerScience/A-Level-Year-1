@@ -6,11 +6,15 @@ Before attempting the questions, read Chapter 8 of your textbook (http://my.dyna
 1. Draw a diagram of the state of a stack after Jones, Smith, Peters, Franklin and Taylor have been added to the stack, in the order given. (**2 marks**)
 2. Draw another diagram showing the state of the stack after two names have been popped off the stack. (**1 mark**)
 
+https://drive.google.com/open?id=0B6L8Tv7A-tcaRERReEpxdWd3Nk0
+
 ##Question 2
 
 1. Draw a diagram showing the array implementation (maximum 6 elements) of a circular queue after Jones, Smith, Peters, Franklin and Taylor have joined the queue, in the order given. You should also show the Front and Rear pointers. (**2 marks**)
 2. Draw another diagram showing the state of the queue after 2 people have left from the front of the queue. Also show the Front and Rear pointers. (**2 marks**)
 3. Draw a third diagram showing the state of the queue after 3 more people have joined the queue from **Q2.2** above. (**2 marks**)
+
+https://drive.google.com/open?id=0B6L8Tv7A-tcadkdUVTJwYmNUUFE
 
 ##Question 3
 
