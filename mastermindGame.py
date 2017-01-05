@@ -47,17 +47,15 @@ slp(1)
 while guess != 8:    
     for i in range(0,4):
         print("Please input a number between 1 and 5.")
-        while check == "":
+        while number == 0:
             number = int(input("Number: "))
             if number > 5:
                 print("Number is invalid.")
-                check = ""
+                number = 0
             else:
                 inputCode.append(number)
-                check = "T"
-            slp(0)
-        check = ""
-        
+                slp(0)
+        number = 0
     for m in range(0,4):
         if code[m] == inputCode[m]:
             correct += 1
